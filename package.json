@@ -28,7 +28,7 @@
     "@actions/core": "^1.2.5",
     "@actions/http-client": "^1.0.8",
     "@actions/io": "^1.0.2",
-    "@actions/tool-cache": "^1.6.0",
+    "@actions/tool-cache": "^1.7.1",
     "@types/semver": "^7.3.3",
     "nock": "^13.0.4",
     "semver": "^7.3.2"
